@@ -1,0 +1,42 @@
+h1 {
+text-align: center;
+font-family: "Platypi", serif;
+font-size:40px;
+}
+
+body {
+	background-color: #CCEFF4;
+}
+
+.topnav a {
+   float: left;
+   color: #FFC6F9;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: #DDDDDD;
+   color: 000000;
+}
+
+.topnav a.active {
+   background-color: #;
+   color: white;
+}
+
+.topnav {
+   background-color: #333333;
+   overflow: hidden;
+}
+
+#cherryblossom {
+   background: url("cherryblossom.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100px;
+   padding: 60px 0px;
+}
+
