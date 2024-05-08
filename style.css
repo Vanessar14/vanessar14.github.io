@@ -4,8 +4,12 @@ font-family: "Platypi", serif;
 font-size:40px;
 }
 
-body {
-	background-color: #CCEFF4;
+body 
+{ 
+   background-color: #CCEFF4;
+}
+ul{
+    list-style-type: none;
 }
 
 .topnav a {
@@ -39,4 +43,32 @@ body {
    height: 100px;
    padding: 60px 0px;
 }
-
+#TTPD {
+   background: url("TTPD.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 250px;
+   padding: 60px 0px;
+}
+#tv {
+   background: url("tv.avif");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100px;
+   padding: 60px 0px;
+}
+}
+#library {
+   background: url("library.jpeg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100px;
+   padding: 60px 0px;
+}
+#airplanes {
+   background: url("airplanes.jpeg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 200px;
+   padding: 60px 0px;
+}
