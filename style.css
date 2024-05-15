@@ -57,9 +57,9 @@ ul{
    height: 100px;
    padding: 60px 0px;
 }
-}
-#library {
-   background: url("library.jpeg");
+
+#lib {
+   background: url("lib.jpg");
    background-repeat: no-repeat;
    background-size: cover;
    height: 100px;
@@ -72,3 +72,5 @@ ul{
    height: 200px;
    padding: 60px 0px;
 }
+
+
